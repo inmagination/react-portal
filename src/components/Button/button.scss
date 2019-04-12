@@ -6,8 +6,10 @@
     --btn-padding: 10px 20px;
     --btn-bg-color: #{$teal};
     --btn-bg-color--hover: #{$darkTeal}; 
-  
+    
+    max-width: 30rem;
     padding: var(--btn-padding);
+    font-size: 1.8rem;
     color: $white;
     border: none;
     border-radius: 2px;

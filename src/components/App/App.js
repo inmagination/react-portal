@@ -19,7 +19,7 @@ export default class App extends Component {
             <div className='l-container'>
                 <span className='app__icon' role='img' aria-label='rocket'>🚀🌌</span>
                 <h1 className='app__title'>Portal modals</h1>
-                <p className='margin-top-10' >Abre los diferentes modales y teletransportate a sus respectivos portales.</p>
+                <p className='app__description'>Abre los diferentes modales y teletransportate a sus respectivos portales.</p>
 
 
 
