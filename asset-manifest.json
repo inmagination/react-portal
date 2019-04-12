@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-portal/static/css/main.e0506ef8.chunk.css",
-  "main.js": "/react-portal/static/js/main.b5bb7da5.chunk.js",
-  "main.js.map": "/react-portal/static/js/main.b5bb7da5.chunk.js.map",
+  "main.css": "/react-portal/static/css/main.af23cbe1.chunk.css",
+  "main.js": "/react-portal/static/js/main.4123e3dc.chunk.js",
+  "main.js.map": "/react-portal/static/js/main.4123e3dc.chunk.js.map",
   "runtime~main.js": "/react-portal/static/js/runtime~main.afff1fac.js",
   "runtime~main.js.map": "/react-portal/static/js/runtime~main.afff1fac.js.map",
   "static/js/2.9c6e8004.chunk.js": "/react-portal/static/js/2.9c6e8004.chunk.js",
   "static/js/2.9c6e8004.chunk.js.map": "/react-portal/static/js/2.9c6e8004.chunk.js.map",
   "index.html": "/react-portal/index.html",
-  "precache-manifest.3d9704699e0fa50972b54c0a0f3a647f.js": "/react-portal/precache-manifest.3d9704699e0fa50972b54c0a0f3a647f.js",
+  "precache-manifest.04b77d0636c6268b1d2749d51c7a96d7.js": "/react-portal/precache-manifest.04b77d0636c6268b1d2749d51c7a96d7.js",
   "service-worker.js": "/react-portal/service-worker.js",
-  "static/css/main.e0506ef8.chunk.css.map": "/react-portal/static/css/main.e0506ef8.chunk.css.map"
+  "static/css/main.af23cbe1.chunk.css.map": "/react-portal/static/css/main.af23cbe1.chunk.css.map"
 }
