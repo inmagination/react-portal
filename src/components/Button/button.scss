@@ -1,0 +1,30 @@
+@import '../../styles/settings/variables.scss';
+@import '../../styles/tools/mixins.scss';
+
+
+.c-button {
+    --btn-padding: 10px 20px;
+    --btn-bg-color: #{$teal};
+    --btn-bg-color--hover: #{$darkTeal}; 
+  
+    padding: var(--btn-padding);
+    color: $white;
+    border: none;
+    border-radius: 2px;
+    background-color: var(--btn-bg-color);
+    transition: 0.2s all ease;
+    cursor: pointer;
+
+    &:hover {
+        background-color: var(--btn-bg-color--hover);
+    }
+
+    &--small {
+        --btn-padding: 5px 15px;
+        font-size: 1.2rem;
+    }
+
+    &__icon {
+        margin-right: 5px;
+    }
+}
